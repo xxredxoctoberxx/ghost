@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<ownershipdocument>
+<schemaversion>X0508</schemaversion>
+<documenttype>4</documenttype>
+<periodofreport>2025-07-01</periodofreport>
+<notsubjecttosection16>false</notsubjecttosection16>
+<issuer>
+<issuercik>0001820872</issuercik>
+<issuername>Global Business Travel Group, Inc.</issuername>
+<issuertradingsymbol>GBTG</issuertradingsymbol>
+</issuer>
+<reportingowner>
+<reportingownerid>
+<rptownercik>0001979013</rptownercik>
+<rptownername>Williams Karen A</rptownername>
+</reportingownerid>
+<reportingowneraddress>
+<rptownerstreet1>C/O GLOBAL BUSINESS TRAVEL GROUP, INC.</rptownerstreet1>
+<rptownerstreet2>666 THIRD AVENUE</rptownerstreet2>
+<rptownercity>NEW YORK</rptownercity>
+<rptownerstate>NY</rptownerstate>
+<rptownerzipcode>10017</rptownerzipcode>
+<rptownerstatedescription></rptownerstatedescription>
+</reportingowneraddress>
+<reportingownerrelationship>
+<isdirector>false</isdirector>
+<isofficer>true</isofficer>
+<istenpercentowner>false</istenpercentowner>
+<isother>false</isother>
+<officertitle>Chief Financial Officer</officertitle>
+<othertext></othertext>
+</reportingownerrelationship>
+</reportingowner>
+<aff10b5one>false</aff10b5one>
+<nonderivativetable>
+<nonderivativetransaction>
+<securitytitle>
+<value>Class A Common Stock</value>
+</securitytitle>
+<transactiondate>
+<value>2025-07-01</value>
+</transactiondate>
+<deemedexecutiondate></deemedexecutiondate>
+<transactioncoding>
+<transactionformtype>4</transactionformtype>
+<transactioncode>F</transactioncode>
+<equityswapinvolved>false</equityswapinvolved>
+<footnoteid id="F1"></footnoteid>
+</transactioncoding>
+<transactiontimeliness></transactiontimeliness>
+<transactionamounts>
+<transactionshares>
+<value>27900.00</value>
+</transactionshares>
+<transactionpricepershare>
+<value>6.34</value>
+</transactionpricepershare>
+<transactionacquireddisposedcode>
+<value>D</value>
+</transactionacquireddisposedcode>
+</transactionamounts>
+<posttransactionamounts>
+<sharesownedfollowingtransaction>
+<value>624937.00</value>
+</sharesownedfollowingtransaction>
+</posttransactionamounts>
+<ownershipnature>
+<directorindirectownership>
+<value>D</value>
+</directorindirectownership>
+</ownershipnature>
+</nonderivativetransaction>
+</nonderivativetable>
+<derivativetable></derivativetable>
+<footnotes>
+<footnote id="F1">Reflects shares withheld to cover the reporting person's tax withholding obligations in connection with the vesting of restricted stock units.</footnote>
+</footnotes>
+<remarks></remarks>
+<ownersignature>
+<signaturename>Jennifer Giampietro, as Attorney-in-Fact</signaturename>
+<signaturedate>2025-07-03</signaturedate>
+</ownersignature>
+</ownershipdocument>

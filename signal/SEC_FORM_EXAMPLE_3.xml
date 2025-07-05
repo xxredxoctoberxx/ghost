@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<ownershipdocument>
+<schemaversion>X0508</schemaversion>
+<documenttype>4</documenttype>
+<periodofreport>2025-07-01</periodofreport>
+<issuer>
+<issuercik>0001567683</issuercik>
+<issuername>Clearway Energy, Inc.</issuername>
+<issuertradingsymbol>CWEN</issuertradingsymbol>
+</issuer>
+<reportingowner>
+<reportingownerid>
+<rptownercik>0002026637</rptownercik>
+<rptownername>Cornelius Craig</rptownername>
+</reportingownerid>
+<reportingowneraddress>
+<rptownerstreet1>300 CARNEGIE CENTER</rptownerstreet1>
+<rptownerstreet2>SUITE 300</rptownerstreet2>
+<rptownercity>PRINCETON</rptownercity>
+<rptownerstate>NJ</rptownerstate>
+<rptownerzipcode>08540</rptownerzipcode>
+<rptownerstatedescription></rptownerstatedescription>
+</reportingowneraddress>
+<reportingownerrelationship>
+<isdirector>true</isdirector>
+<isofficer>true</isofficer>
+<istenpercentowner>false</istenpercentowner>
+<isother>false</isother>
+<officertitle>President &amp; CEO</officertitle>
+<othertext></othertext>
+</reportingownerrelationship>
+</reportingowner>
+<aff10b5one>0</aff10b5one>
+<nonderivativetable>
+<nonderivativetransaction>
+<securitytitle>
+<value>Class C Common Stock, par value $.01 per share</value>
+</securitytitle>
+<transactiondate>
+<value>2025-07-01</value>
+</transactiondate>
+<transactioncoding>
+<transactionformtype>4</transactionformtype>
+<transactioncode>F</transactioncode>
+<equityswapinvolved>0</equityswapinvolved>
+</transactioncoding>
+<transactionamounts>
+<transactionshares>
+<value>6808</value>
+</transactionshares>
+<transactionpricepershare>
+<footnoteid id="F1"></footnoteid>
+</transactionpricepershare>
+<transactionacquireddisposedcode>
+<value>D</value>
+</transactionacquireddisposedcode>
+</transactionamounts>
+<posttransactionamounts>
+<sharesownedfollowingtransaction>
+<value>390477</value>
+</sharesownedfollowingtransaction>
+</posttransactionamounts>
+<ownershipnature>
+<directorindirectownership>
+<value>D</value>
+</directorindirectownership>
+<natureofownership>
+<value></value>
+</natureofownership>
+</ownershipnature>
+</nonderivativetransaction>
+</nonderivativetable>
+<derivativetable></derivativetable>
+<footnotes>
+<footnote id="F1">On July 1, 2024, Mr. Cornelius was issued 37,945 Restricted Stock Units ("RSUs") by Clearway Energy, Inc. (f/k/a NRG Yield, Inc.) under Clearway Energy Inc.'s Amended and Restated 2013 Equity Incentive Plan (the "LTIP"). These RSUs vest ratably over a three-year period beginning on the first anniversary of the date of the grant. Each RSU is equivalent in value to one share of Class C Common Stock of Clearway Energy Inc., par value $.01 per share. On July 1, 2025, 13,406 shares vested. Mr. Cornelius elected to satisfy his tax obligation upon the exchange of common stock for RSUs having a value on the date of the exchange equal to the withholding obligation. This form reflects the surrender of 6,808 shares of Class C Common Stock to satisfy the grantee's tax withholding obligation.</footnote>
+</footnotes>
+<ownersignature>
+<signaturename>/s/ Kevin P. Malcarney, Attorney-in-Fact</signaturename>
+<signaturedate>2025-07-03</signaturedate>
+</ownersignature>
+</ownershipdocument>
