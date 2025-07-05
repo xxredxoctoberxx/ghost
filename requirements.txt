@@ -1,0 +1,12 @@
+PIL
+bs4
+certifi==2025.4.26
+customtkinter
+lxml==5.4.0
+pandas==1.5.3
+playsound
+regex==2024.11.6
+requests==2.31.0
+requests_html
+yaml
+yfinance
