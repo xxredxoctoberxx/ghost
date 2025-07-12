@@ -1,5 +1,5 @@
 # Ghost Trading System
-![Ghost Preview](preview_img.png)
+![Ghost Preview](preview_img.png)<br>
 **Ghost** is a sophisticated algorithmic trading system designed for real-time market analysis, signal generation and execution, automated position management, and detailed profit and loss tracking. The platform includes a distinctive dark-themed graphical interface and integrates multiple data sources and libraries for high-performance trading workflows.
 
 ## How does it work? (High-Level View)
