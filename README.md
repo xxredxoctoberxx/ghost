@@ -1,6 +1,15 @@
 # Ghost Trading System
-
+![Ghost Preview](preview_img.png)
 **Ghost** is a sophisticated algorithmic trading system designed for real-time market analysis, signal generation and execution, automated position management, and detailed profit and loss tracking. The platform includes a distinctive dark-themed graphical interface and integrates multiple data sources and libraries for high-performance trading workflows.
+
+## How does it work? (High-Level View)
+You start by specifying the time frame you want — this determines how far back the bot will go to gather insider buying information. Using Selenium, the system scrapes the official SEC forms publication site and extracts all relevant recent filings. It specifically looks for significant insider buying activity on medium-cap, small float stocks.
+
+Once this is complete, the bot generates a .csv file containing a list of potential stocks. After the signal is ready, you can activate the trading algorithm, which analyzes each candidate’s financial and statistical profile (e.g. current price, trading volume, bid-ask spread, etc.).
+
+Based on this analysis, the system monitors for buying opportunities, enters positions when conditions are met, and automatically exits by market close. If the trade moves against you, the system will cut the loss early. It continuously tracks your P&L in real-time, and if needed, you can instantly shut down all open positions using the built-in kill switch.
+
+A bonus feature is the financial calendar built into the platform, which displays upcoming macro events and market-moving catalysts to help you account for exogenous risk factors.
 
 ## Features
 
@@ -29,6 +38,7 @@ To use the FMTP-API:
 ```yaml
 api_key: your_fmtp_api_key_here
 ```
+read more here: https://site.financialmodelingprep.com/developer/docs
 
 ## Getting Started
 
